@@ -1,6 +1,8 @@
 # How to install 
-```git clone https://github.com/Abrissyy/abriphisher ```
+```git clone https://github.com/Abrissyy/abriphisher.git```
+<br>
 ```cd abriphisher```
+<br>
 ```bash abriphisher.sh```
 # How to publish abriphisher website 
 ```ssh -R 80:127.0.0.1:8000 ssh.localhost.run```
